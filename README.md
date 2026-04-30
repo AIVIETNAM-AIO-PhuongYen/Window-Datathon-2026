@@ -27,7 +27,7 @@ Dưới đây là các file chính trong dự án:
 - File chứa kết quả dự báo doanh thu cuối cùng sinh ra từ mô hình.
 - Đây là file dùng để hệ thống
  
-4. Datathon2026: Đội thi Window.pdf:
+4. Datathon2026: Đội_thi_Window.pdf:
 - Báo cáo tổng hợp chính thức.
 - Nội dung bao gồm: Phân tích khách hàng, kết quả trực quan hóa, giải thích mô hình dự báo và các đề xuất chiến lược kinh doanh.
 
