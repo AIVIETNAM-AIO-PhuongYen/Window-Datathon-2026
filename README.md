@@ -9,7 +9,7 @@ Dự án tập trung nghiên cứu phân khúc và hành vi khách hàng của d
 
 Kết quả nổi bật:
 - Insight khách hàng: Xác định nhóm 25-44 tuổi là tệp chủ lực; đề xuất tái định vị thương hiệu.
-- Mô hình dự báo: Hệ thống Ensemble (kết hợp LightGBM, Ridge Regression và Prophet) đạt độ chính xác cao với $R^2 \approx 0.83$.
+- Mô hình dự báo: Hệ thống Ensemble (kết hợp LightGBM, Ridge Regression và Prophet) đạt độ chính xác cao với $R^2 \approx 0.83$ (LightGBM).
 
 ## Cấu trúc bài nộp
 
